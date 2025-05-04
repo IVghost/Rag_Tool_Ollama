@@ -1,0 +1,10 @@
+gradio
+requests
+PyPDF2
+pandas
+python-docx
+openpyxl
+fpdf
+ollama
+psutil
+pdf2image
