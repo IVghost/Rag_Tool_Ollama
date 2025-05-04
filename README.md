@@ -25,7 +25,7 @@ wsl --set-default-version 2
 Dans le terminal Ubuntu/WSL :
 curl -fsSL https://ollama.com/install.sh | sh
 
-3. Dépendances Python (PowerShell) :
+3. Dépendances Python (PowerShell/Windows) :
 ------------------------------------
 dans ce dossier ; clic droit (dans le vide); ouvrir terminal puis : 
 
@@ -70,6 +70,10 @@ ollama pull llama3.2 ou autres LLM à voir sur ollama.com
 -------------------------------------
 .\venv\Scripts\activate
 python Rag_tool_Ivghost.py
+
+ou
+
+Double-clic sur le fichier start.bat 
 
 ■■■ Dépannage ■■■
 
